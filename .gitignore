@@ -1,3 +1,5 @@
 __pycache__
 build/
 venv/
+.lgd-nfy0
+*egg-info

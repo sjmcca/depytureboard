@@ -46,6 +46,16 @@ venv/bin/pip install -r requirements.txt
 venv/bin/pip install wavesharelib
 ```
 
+## Run
+
+Currently there's no command args to tell the board which
+journey to monitor, so it's just set to Witham to Liverpool
+Street. 
+
+```bash
+venv/bin/python depytureboard.py
+```
+
 
 ## Other bits
 
@@ -69,3 +79,4 @@ sudo apt install python3-gpiozero
 
 - Other e-Paper display support
 - Find an actual API to get the data, rather than scraping
+- Configurable stations

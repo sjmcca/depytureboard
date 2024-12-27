@@ -5,15 +5,14 @@ two stations.
 
 This is based on scraping the network rail website rather than
 a stable API so honestly it might break at any time if they 
-change their website, specifically the page 
-[here]("https://www.nationalrail.co.uk/live-trains/departures)
+change their website, specifically the page [here](https://www.nationalrail.co.uk/live-trains/departures)
 
 ## Physical Setup
 
 The board is built around displaying on a 
 [Waveshare 1.54in e-Paper display](https://www.waveshare.com/1.54inch-e-paper.htm).
 
-Here's a good pinout diagram for the Pi4, which is _think_ is the 
+Here's a good pinout diagram for the Pi4, which i _think_ is the 
 same across models, but maybe check if you don't have a 4:
 
 ![](https://www.raspberrypi.com/documentation/computers/images/GPIO-Pinout-Diagram-2.png?hash=df7d7847c57a1ca6d5b2617695de6d46)
